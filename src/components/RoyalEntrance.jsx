@@ -52,7 +52,7 @@ export default function RoyalEntrance() {
             </h1>
 
             <div className="couple-names">
-              AARAV <span>&</span> ANANYA
+              RAVI <span>&</span> AYUSHI
             </div>
 
             <div className="palace-stage">

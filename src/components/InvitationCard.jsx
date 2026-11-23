@@ -47,7 +47,7 @@ export default function InvitationCard() {
           <p className="of-his-son">of his son</p>
 
           <div className="couple-names-card">
-            <h2>Dr. Ravi C. Brahmbhatt</h2>
+            <h2>Dr. Ravi</h2>
             <span>&</span>
             <h2>Dr. Ayushi</h2>
           </div>

@@ -19,8 +19,8 @@ export default function Envelope({ onOpen }) {
           transition={{ duration: 1 }}
         >
           <span>THE WEDDING OF</span>
-          <h2>Aarav & Ananya</h2>
-          <span>12 DECEMBER 2026</span>
+          <h2>RAVI & AYUSHI</h2>
+          <span>4th FEB 2027</span>
         </motion.div>
 
         {/* Envelope body */}
